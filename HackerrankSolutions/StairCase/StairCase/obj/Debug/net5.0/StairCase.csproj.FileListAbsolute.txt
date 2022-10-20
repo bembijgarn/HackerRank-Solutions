@@ -1,0 +1,16 @@
+C:\Users\lasha\source\repos\StairCase\StairCase\bin\Debug\net5.0\StairCase.exe
+C:\Users\lasha\source\repos\StairCase\StairCase\bin\Debug\net5.0\StairCase.deps.json
+C:\Users\lasha\source\repos\StairCase\StairCase\bin\Debug\net5.0\StairCase.runtimeconfig.json
+C:\Users\lasha\source\repos\StairCase\StairCase\bin\Debug\net5.0\StairCase.runtimeconfig.dev.json
+C:\Users\lasha\source\repos\StairCase\StairCase\bin\Debug\net5.0\StairCase.dll
+C:\Users\lasha\source\repos\StairCase\StairCase\bin\Debug\net5.0\StairCase.pdb
+C:\Users\lasha\source\repos\StairCase\StairCase\obj\Debug\net5.0\StairCase.csproj.AssemblyReference.cache
+C:\Users\lasha\source\repos\StairCase\StairCase\obj\Debug\net5.0\StairCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasha\source\repos\StairCase\StairCase\obj\Debug\net5.0\StairCase.AssemblyInfoInputs.cache
+C:\Users\lasha\source\repos\StairCase\StairCase\obj\Debug\net5.0\StairCase.AssemblyInfo.cs
+C:\Users\lasha\source\repos\StairCase\StairCase\obj\Debug\net5.0\StairCase.csproj.CoreCompileInputs.cache
+C:\Users\lasha\source\repos\StairCase\StairCase\obj\Debug\net5.0\StairCase.dll
+C:\Users\lasha\source\repos\StairCase\StairCase\obj\Debug\net5.0\refint\StairCase.dll
+C:\Users\lasha\source\repos\StairCase\StairCase\obj\Debug\net5.0\StairCase.pdb
+C:\Users\lasha\source\repos\StairCase\StairCase\obj\Debug\net5.0\StairCase.genruntimeconfig.cache
+C:\Users\lasha\source\repos\StairCase\StairCase\obj\Debug\net5.0\ref\StairCase.dll
