@@ -13,7 +13,7 @@ namespace BuuBleSORT
             {
                 Console.Write($"{arr[i]} ");
             }
-            Console.WriteLine();
+            Console.Write("\n");
             do
             {
                 swapped = false;
