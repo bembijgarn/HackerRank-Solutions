@@ -1,0 +1,16 @@
+C:\Users\lasha\source\repos\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\net5.0\DesignerPDFViewer.exe
+C:\Users\lasha\source\repos\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\net5.0\DesignerPDFViewer.deps.json
+C:\Users\lasha\source\repos\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\net5.0\DesignerPDFViewer.runtimeconfig.json
+C:\Users\lasha\source\repos\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\net5.0\DesignerPDFViewer.runtimeconfig.dev.json
+C:\Users\lasha\source\repos\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\net5.0\DesignerPDFViewer.dll
+C:\Users\lasha\source\repos\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\net5.0\DesignerPDFViewer.pdb
+C:\Users\lasha\source\repos\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\net5.0\DesignerPDFViewer.csproj.AssemblyReference.cache
+C:\Users\lasha\source\repos\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\net5.0\DesignerPDFViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasha\source\repos\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\net5.0\DesignerPDFViewer.AssemblyInfoInputs.cache
+C:\Users\lasha\source\repos\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\net5.0\DesignerPDFViewer.AssemblyInfo.cs
+C:\Users\lasha\source\repos\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\net5.0\DesignerPDFViewer.csproj.CoreCompileInputs.cache
+C:\Users\lasha\source\repos\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\net5.0\DesignerPDFViewer.dll
+C:\Users\lasha\source\repos\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\net5.0\refint\DesignerPDFViewer.dll
+C:\Users\lasha\source\repos\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\net5.0\DesignerPDFViewer.pdb
+C:\Users\lasha\source\repos\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\net5.0\DesignerPDFViewer.genruntimeconfig.cache
+C:\Users\lasha\source\repos\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\net5.0\ref\DesignerPDFViewer.dll
